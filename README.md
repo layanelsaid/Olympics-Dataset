@@ -21,15 +21,14 @@ Data exploration questions:
 7.	Which sports were in each season? 
 8.	How did events evolve over time?
 9.	What is the total number of athletes in the Olympics over time? 
-10.	What is the relation between event and weight? 
-11.	What is the relation between event and height? 
-12.	What are the Top 10 Sports being played in the Olympics? 
-13.	What is the relation between the team and the season? 
-14.	What is the relation between the team and medal?
-15.	What is the relation between the season and the city? 
-16.	What is the relation between age and medal?
-17.	Who are the top 10 males that won medals in the Olympics? 
-18.	Who are the top 10 females that won medals in the Olympics? 
-19.	What are the most 10 cities that hosted the Olympics? 
-20.	What are the least 10 cities that hosted the Olympics? 
+10.	What is the relation between event and height? 
+11.	What are the Top 10 Sports being played in the Olympics? 
+12.	What is the relation between the team and the season? 
+13.	What is the relation between the team and medal?
+14.	What is the relation between the season and the city? 
+15.	What is the relation between age and medal?
+16.	Who are the top 10 males that won medals in the Olympics? 
+17.	Who are the top 10 females that won medals in the Olympics? 
+18.	What are the most 10 cities that hosted the Olympics? 
+19.	What are the least 10 cities that hosted the Olympics? 
 	
